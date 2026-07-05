@@ -1,6 +1,6 @@
 # Hi, I'm Daniel Ro, MD 👋
 
-I am a board-certified vascular neurologist and physician engineer dedicated to designing, prototyping, and evaluating trustworthy clinical AI systems that augment clinical reasoning while keeping physicians at the center of patient care. 
+I am a board-certified neurologist and neurocritical care physician practicing as a vascular neurologist, and a physician engineer dedicated to designing, prototyping, and evaluating trustworthy clinical AI systems that augment clinical reasoning while keeping physicians at the center of patient care.
 
 Rather than treating AI as an isolated technology, I look at clinical deployment through the lens of safety and automation frameworks—ensuring that LLMs and agentic workflows are deeply integrated into actual clinical workflows.
 
