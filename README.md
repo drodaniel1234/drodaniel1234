@@ -13,6 +13,7 @@ Every current project in this portfolio is inspired by real operational gaps enc
 * **[NIHSS Mobile Assistant](https://github.com/drodaniel1234/NIHSS-Mobile-Assistant-v1.0)**: A mobile-first clinical decision support prototype featuring conversational AI parsing for the NIH Stroke Scale.
 * **[Stroke Time Tracker](https://github.com/drodaniel1234/stroke-time-tracker-v1.3)**: A lightweight, front-end workflow tool for telestroke physicians to log and track real-time clinical milestones across multiple active cases simultaneously.
 * **[Telestroke Dashboard](https://github.com/drodaniel1234/telestroke-dashboard)**: An LLM-powered quality metric extractor that pulls structured stroke metrics from unstructured text notes, with verifiable source-text tracing.
+* **[Telestroke IVT Assistant](https://github.com/drodaniel1234/telestroke-ivt-assistant)**: A clinical decision support prototype that extracts IV thrombolytic eligibility criteria from clinical notes, utilizing character-offset mapping for verifiable source-text tracing.
 * **[AI Stroke Copilot Roadmap](https://github.com/drodaniel1234/ai-stroke-copilot-roadmap)**: Modular architecture and prototypes looking toward a fully integrated command layer for acute stroke codes.
 
 > **Portfolio Philosophy:** This ecosystem serves as a broader engineering exploration of how clinical decision support systems can be made safe, auditable, and seamlessly tailored to high-stakes medicine.
