@@ -23,4 +23,4 @@ Every project in this portfolio originates from real clinical workflow friction 
 * **[AI Stroke Copilot Roadmap](https://github.com/drodaniel1234/ai-stroke-copilot-roadmap)**: Modular architecture and prototypes looking toward a fully integrated command layer for acute stroke codes.
 
 
-> **Portfolio Philosophy:** This ecosystem serves as a broader engineering exploration of how clinical decision support systems can be made safe, auditable, and seamlessly tailored to high-stakes medicine.
+> **Portfolio Philosophy:** These projects are modular explorations of how trustworthy AI can improve clinical workflow and decision support. Each prototype begins with a real clinical pain point and contributes toward a broader vision of safe, auditable, physician-centered AI systems.
